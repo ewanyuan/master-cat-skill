@@ -1,0 +1,7 @@
+interface:
+  display_name: "大师猫"
+  short_description: "辨阴阳、察气脉、悟心法、授一招，把真实有效的经验炼成能力"
+  default_prompt: "使用 $master-cat 核实这份家猫纸条：从人与 AI 的关系和协作气脉理解问题，提炼一条心法，选择并真实验证适合当下的一招；必要时访江湖、封装能力或建议社交猫。"
+
+policy:
+  allow_implicit_invocation: true
